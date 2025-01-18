@@ -1,0 +1,23 @@
+---
+title: "About"
+image: images/hala-profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hala-arar-9931a615b/
+    - icon: github
+      text: Github
+      href: https://github.com/halaarar
+
+---
+
+# About Me
+
+Hello fellow data scientist!
+
+My name is Hala, and I am currently studying Data Science at the University of British Columbia. I completed my undergraduate degree in Biomedical Sciences with a minor in Mathematics, which provided me with a strong foundation in analytical thinking and problem-solving. In my free time, I enjoy weightlifting, watching TV, and skiing. Additionally, I am deeply passionate about simplifying complex concepts and sharing knowledge with others.
+
+Like many of you, I initially struggled to grasp the basics of computer science and collaborative tools like Git and GitHub. This blog is my way of bridging that gap by providing beginner-friendly explanations and tutorials for essential tools in data science. My goal is to make learning accessible and enjoyable, empowering you to confidently tackle challenges in programming, version control, and teamwork. Together, we can demystify these concepts and make the learning process more manageable and even fun!
+

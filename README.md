@@ -1,1 +1,1 @@
-# bog
+# GitHub for Data Scientists: A Beginner’s Tutorial

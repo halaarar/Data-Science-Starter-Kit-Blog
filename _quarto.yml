@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "The Data Science Starter Kit"
+  navbar:
+    right:
+      - about.qmd
+      - text: "Posts"
+        menu:
+          - text: "GitHub for Beginners"
+            href: posts/post-with-code/index.qmd
+      - icon: github
+        href: https://github.com/halaarar
+      - icon: linkedin
+        href: https://www.linkedin.com/in/hala-arar-9931a615b/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
